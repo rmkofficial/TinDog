@@ -120,3 +120,14 @@ p {
     height: 400px;
 }
 
+/* Pricing */
+
+#pricing {
+    text-align: center;
+}
+
+.pricing-column {
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
