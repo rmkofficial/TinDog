@@ -58,21 +58,26 @@ p {
 }
 
 .dw-btn {
-    margin: 0 25px;
+    margin: 0 25px 50px 25px;
 }
 
 /* Title Image */
 
 .title-image {
-    margin-left: 100px;
-    width: 60%;
+    /* margin-left: 100px; */
+    width: 20%;
     transform: rotate(25deg);
+    position: absolute;
+    right: 17%;
 }
 
 /* Features */
 
 #features {
-    margin: 3% 0 3% 0;
+    
+    background-color: white;
+    position: relative;
+    z-index: 1;
 }
 
 .feature-box {
