@@ -135,6 +135,28 @@ p {
     padding-bottom: 3%;
 }
 
+/* CTA */
+
+#cta {
+    background-color: #ff4c68;
+    text-align: center;
+}
+
+.dw-btn1 {
+    margin: 0 15px 50px 15px;
+}
+
+/* Footer */
+
+#footer {
+    background-color: #fff;
+    text-align: center;
+}
+
+.footer-p {
+    margin-bottom: 1rem;
+}
+
 /* Media */
 
 @media (max-width: 1028px) {
